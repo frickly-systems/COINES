@@ -1,0 +1,17 @@
+.md-header {
+  background-image: url(Bosch-Supergraphic_RGB.svg);
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.md-logo {
+  transform: scale(1.8);
+}
+
+:root {
+  --md-primary-fg-color: #656A6F;
+  --md-accent-fg-color: #FF2124;
+  /* --md-accent-bg-color: #000000; */
+}
