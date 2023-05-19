@@ -142,7 +142,7 @@ plugins:
         sources: '*.drawio'
     - with-pdf:
         author: Bosch Sensortec
-        copyright: COPYRIGHT
+        copyright: CC BY-SA 4.0
         #
         #cover: false
         #back_cover: true
